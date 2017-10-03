@@ -98,7 +98,7 @@ It's only about 2 steps. First, to include the library, and second, to define yo
          w3wtify.w3w_gmaps_key = '<yourGmapsKeyhere>'; // required
          w3wtify.w3w_token = '<yourW3WTokenhere>'; // required 
              
-         // In this example, you include a W3W widget in the div called                      myW3WMap1 
+         // In this example, you include a W3W widget in the div called myW3WMap1 
          w3wtify.insertW3WNodesInDiv('myW3WMap1',false,{lat: 45.363, lng: 70.044}, 2); 
          // Calling includeW3WModal then you are injecting the W3WModal in your page
          // By default, library will open the Modal when you type 'w3w.' in an input[type=text]
