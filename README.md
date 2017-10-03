@@ -1,6 +1,7 @@
 # w3wtify.js library <img align="right" width="250" src="http://www.geotekne.com.ar/w3wtify/img/w3wtify.png">
 
 This Javascript library allows you to embed and use [What3Words](https://www.what3words.com) in your site easily.
+Visit our site to see it in action [W3Wtify project webpage](http://w3wtify.geotekne.com.ar).
 
 **What is What3Words ?**
 
@@ -121,7 +122,7 @@ If you are a developer, check source code of this page and you will find some ex
 ## Examples of Use
 
 You can use the library to setup diverse W3W maps in your page. 
-Please check  [W3Wtify project webpage](https://www.what3words.com) for examples.
+Please check [W3Wtify project webpage](http://w3wtify.geotekne.com.ar) for examples.
 
 * * *
 ## About W3Wtify
@@ -136,6 +137,5 @@ Now working on:
 *   W3W Facebook Albums
 
 * * *
-Powered by [What3Words](https://www.what3words.com)
-
-Developed by [Geotekne](http://www.geotekne.com.ar)
+<div style="text-align: left">Powered by [What3Words](https://www.what3words.com)</div>
+<div style="text-align: right">Developed by [Geotekne](http://www.geotekne.com.ar)</div>
