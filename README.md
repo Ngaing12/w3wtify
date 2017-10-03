@@ -6,7 +6,8 @@ This Javascript library allows you to embed and use [What3Words](https://www.wha
 
 what3words is the simplest way to talk about any precise location. The system divide the world into a grid of 3m x 3m squares and assign each one a unique address made of just 3 words. In that way everyone and everywhere has a reliable address.
 
-For a longer description, we suggest to watch this [![video w3w](https://img.youtube.com/vi/JTy7C47I8w0/0.jpg)](https://www.youtube.com/watch?v=JTy7C47I8w0)
+For a longer description, we suggest to watch this video: 
+[![video w3w](https://img.youtube.com/vi/JTy7C47I8w0/0.jpg)](https://www.youtube.com/watch?v=JTy7C47I8w0)
 
 * * *
 
