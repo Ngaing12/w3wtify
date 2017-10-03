@@ -1,4 +1,4 @@
-# w3wtify.js library <img align="right" width="150" src="http://www.geotekne.com.ar/w3wtify/img/w3wtify.png">
+# w3wtify.js library <img align="right" width="250" src="http://www.geotekne.com.ar/w3wtify/img/w3wtify.png">
 
 This Javascript library allows you to embed and use [What3Words](https://www.what3words.com) in your site easily.
 
