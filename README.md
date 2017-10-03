@@ -6,7 +6,7 @@ This Javascript library allows you to embed and use [What3Words](https://www.wha
 
 what3words is the simplest way to talk about any precise location. The system divide the world into a grid of 3m x 3m squares and assign each one a unique address made of just 3 words. In that way everyone and everywhere has a reliable address.
 
-For a longer description, we suggest to watch this [video](https://www.youtube.com/embed/JTy7C47I8w0)
+For a longer description, we suggest to watch this [![video w3w](https://img.youtube.com/vi/JTy7C47I8w0/0.jpg)](https://www.youtube.com/watch?v=JTy7C47I8w0)
 
 * * *
 
@@ -99,7 +99,9 @@ It's only about 2 steps. First, to include the library, and second, to define yo
          w3wtify.w3w_token = '<yourW3WTokenhere>'; // required 
              
          // In this example, you include a W3W widget in the div called myW3WMap1 
+         
          w3wtify.insertW3WNodesInDiv('myW3WMap1',false,{lat: 45.363, lng: 70.044}, 2); 
+         
          // Calling includeW3WModal then you are injecting the W3WModal in your page
          // By default, library will open the Modal when you type 'w3w.' in an input[type=text]
          
@@ -133,4 +135,5 @@ Now working on:
 
 * * *
 Powered by [What3Words](https://www.what3words.com)
+
 Developed by [Geotekne](http://www.geotekne.com.ar)
